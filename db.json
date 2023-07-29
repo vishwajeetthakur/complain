@@ -1,0 +1,63 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Admin User",
+      "password": "nipnil@2000",
+      "email": "A",
+      "gender": null,
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "user1",
+      "name": "hii",
+      "password": "nipnil@2000",
+      "email": "A",
+      "gender": "Major issue",
+      "role": "Resolved",
+      "isactive": true
+    },
+    {
+      "id": "user2",
+      "name": "hii",
+      "password": "nipnil@2000",
+      "email": "A",
+      "gender": "Major issue",
+      "role": "Resolved",
+      "isactive": true
+    },
+    {
+      "id": "user3",
+      "name": "hii",
+      "password": "nipnil@2000",
+      "email": "A",
+      "gender": "Major issue",
+      "role": "Underprocess",
+      "isactive": true
+    },
+    {
+      "id": "user4",
+      "name": "hello",
+      "password": "nipnil@2000",
+      "email": "B",
+      "gender": "Minor issue",
+      "role": "Waiting",
+      "isactive": false
+    }
+  ],
+  "role": [
+    {
+      "code": "Resolved",
+      "name": "Resolved"
+    },
+    {
+      "code": "Waiting",
+      "name": "Waiting"
+    },
+    {
+      "code": "Underprocess",
+      "name": "Underprocess"
+    }
+  ]
+}
